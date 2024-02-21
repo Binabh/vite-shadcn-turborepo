@@ -3,14 +3,6 @@
 This is code repository for [this article](https://articles.wesionary.team/react-vite-with-shadcn-ui-for-ui-components-all-in-turborepo-8af3deafa58e).
 All the details about folder structure and configurations are explained in the article.
 
-## Using this example
-
-Run the following command:
-
-```sh
-npx create-turbo@latest
-```
-
 ## What's inside?
 
 This Turborepo includes the following packages/apps:
